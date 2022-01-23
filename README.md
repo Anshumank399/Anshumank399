@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+Anshuman's a software developer with specialized skills in big data, machine learning and backend technologies.   
+
+#### Timeline: 
+- Grad student at University of Southern California [USC](https://www.usc.edu/) pursuing MS in CS.  [Aug, 2021 - May, 2023]
+- Senior Software Engineer: Data Science @ [Societe Generale](https://www.societegenerale.com/en/societe-generale-group/identity/identity).   
+Intern -> Data Engineer -> Senior Software Engineer: Data Science [Jan, 2019 - July, 2021]
+- Bachelors in Computer Science from Vellore Institute of Technology, Vellore [VIT](https://vit.ac.in/)
+
+#### Hobbies:
+- Finance: Investment
+- Photography [framedbyanshuman](https://www.instagram.com/framedbyanshuman/)
+
+<!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumank399)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+#### Internship Experience:
+- [Societe Generale](https://github.com/Anshumank399/Certificates/blob/main/Internship/Internship%20SG%20letter.pdf)
+- [SocView Solutions](https://github.com/Anshumank399/Certificates/blob/main/Internship/CERTIFICATE%20OF%20INTERNSHIP%20-%20Anshuman%20Dey%5B56003%5D.pdf)
+
+[![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=Anshumank399&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anshumank399/)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,13 +32,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=Anshumank399&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anshumank399/)
-
-<!--
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumank399)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-#### Internship Experience:
-- [Societe Generale](https://github.com/Anshumank399/Certificates/blob/main/Internship/Internship%20SG%20letter.pdf)
-- [SocView Solutions](https://github.com/Anshumank399/Certificates/blob/main/Internship/CERTIFICATE%20OF%20INTERNSHIP%20-%20Anshuman%20Dey%5B56003%5D.pdf)
