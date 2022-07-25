@@ -3,7 +3,7 @@
 Anshuman's a software developer with specialized skills in data engineering and machine learning.   
 
 #### Timeline: 
-- Intern at McKinsey, Quantumblack AI
+- Data Engineering Intern at McKinsey, [Quantumblack AI](https://www.mckinsey.com/business-functions/quantumblack/how-we-help-clients)
 - Grad student at University of Southern California [USC](https://www.usc.edu/) pursuing MS in CS.  [Aug, 2021 - May, 2023]
 - Senior Software Engineer: Data Science @ [Societe Generale](https://www.societegenerale.com/en/societe-generale-group/identity/identity).   
 Intern -> Data Engineer -> Senior Software Engineer: Data Science [Jan, 2019 - July, 2021]
