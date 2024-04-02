@@ -20,8 +20,6 @@ Anshuman's a software developer with specialized skills in data engineering and 
 - [Societe Generale](https://github.com/Anshumank399/Certificates/blob/main/Internship/Internship%20SG%20letter.pdf)
 - [SocView Solutions](https://github.com/Anshumank399/Certificates/blob/main/Internship/CERTIFICATE%20OF%20INTERNSHIP%20-%20Anshuman%20Dey%5B56003%5D.pdf)
 
-[![Anshuman's github stats](https://github-readme-stats.vercel.app/api?username=Anshumank399&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Anshumank399/)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
